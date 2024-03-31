@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 🌱 Software Engineer dedicated to crafting innovative solutions and fostering collaborative environments. \
-🛠️ Proficient in Spring Boot for backend development, Java, and with some exposure to React.js for frontend tasks. \
+🛠️ Proficient in Spring Boot, Java for backend development with some exposure to React.js for frontend. \
 🏆 Actively refining my understanding of Data Structures, Algorithms, and System Architecture. \
 📫 Feel free to reach me at **akshit67.jain@gmail.com**. 
 
